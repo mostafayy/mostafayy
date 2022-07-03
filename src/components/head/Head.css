@@ -1,0 +1,41 @@
+/*----------------head------------------*/
+.head {
+    padding: 10px 0;
+    color: #fff;
+  }
+  .search {
+    background: #323a46;
+    padding: 10px 20px;
+    border-radius: 50px;
+  }
+  .light .search {
+    background-color: #e2e6ea;
+  }
+  .light .iconHead {
+    color: #323a46;
+  }
+  .light .head {
+    color: #323a46;
+  }
+  .iconHead {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .head .imageCircle {
+    margin-right: 10px;
+  }
+  .profile .iconHead {
+    margin-left: 10px;
+    margin-right: 0;
+  }
+  
+  .search .iconHead {
+    margin: 0;
+  }
+  input::placeholder {
+    color: #fff;
+  }
+  .light input::placeholder {
+    color: #323a46;
+  }
+  /*----------------head------------------*/
