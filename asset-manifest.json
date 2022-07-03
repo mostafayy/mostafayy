@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mostafayy/static/css/main.893457bc.css",
+    "main.js": "/mostafayy/static/js/main.e9205353.js",
+    "index.html": "/mostafayy/index.html",
+    "main.893457bc.css.map": "/mostafayy/static/css/main.893457bc.css.map",
+    "main.e9205353.js.map": "/mostafayy/static/js/main.e9205353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.893457bc.css",
+    "static/js/main.e9205353.js"
+  ]
+}
